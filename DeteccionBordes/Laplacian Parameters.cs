@@ -16,8 +16,8 @@ namespace DeteccionBordes
 
         public Laplacian_Parameters()
         {
-            InitializeComponent();
-        }
+            InitializeComponent(); 
+        }  
 
         public Laplacian_Parameters(Form1 fm3)
         {
